@@ -30,7 +30,7 @@
 - [x] [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
 - [x] [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 - [x] [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
-- [ ] [1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
+- [x] [1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
 - [ ] [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [ ] [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 - [ ] [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
