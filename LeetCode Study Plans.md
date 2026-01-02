@@ -53,7 +53,7 @@
 - [ ] [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 ### Programming Skills II
 
-- [ ] [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)
+- [x] [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)
 - [ ] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 - [ ] [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 - [ ] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)

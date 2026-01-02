@@ -10,13 +10,15 @@
           {
             "id": "e2bdb3d7842c7591",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "LeetCode Study Plans.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "LeetCode Study Plans"
             }
@@ -183,13 +185,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "a245681a4c14dc62",
+  "active": "e2bdb3d7842c7591",
   "lastOpenFiles": [
+    "DSA/Monotonic Stack/896. Monotonic Array.ipynb",
+    "Programming Skills/Programming Skills II/896. Monotonic Array.ipynb",
+    "Programming Skills/Programming Skills II/test.ipynb",
     "Amazon_SDE_Fresher_DSA_Checklist.md",
-    "Amazon_System_Design_Complete_Mastery_Guide.md",
-    "README.md",
     "LeetCode Study Plans.md",
     "Python Coding Tricks.md",
+    "Amazon_System_Design_Complete_Mastery_Guide.md",
+    "README.md",
     "DSA/Matrix/Python/1672. Richest Customer Wealth.ipynb",
     "DSA/Matrix/1672. Richest Customer Wealth.ipynb",
     "Programming Skills/Programming Skills I/1672. Richest Customer Wealth.ipynb",
@@ -198,8 +203,6 @@
     "Notes.ipynb",
     "DSA/Two Pointers/Python/1588. Sum of All Odd Length Subarrays.ipynb",
     "Python DSA/Arrays/283. Move Zeroes.ipynb",
-    "Programming Skills/Programming Skills I/283. Move Zeroes.ipynb",
-    "DSA/Two Pointers/Python/496. Next Greater Element .ipynb",
     "DSA/Social_Media_System_Design/Requirements_Analysis.md",
     "DSA/Social_Media_System_Design/Database_Design.md",
     "DSA/Social_Media_System_Design/Problem_Statement.md",
@@ -219,7 +222,6 @@
     "DSA/MongoDB_Tricks_Cheatsheet.md",
     "DSA/Linux_Commands_Cheatsheet.md",
     "DSA/Docker_Cheatsheet.md",
-    "DSA/Java_DSA_Syntax_Cheatsheet.md",
-    "DSA/JavaScript_DSA_Tricks_Cheatsheet.md"
+    "DSA/Java_DSA_Syntax_Cheatsheet.md"
   ]
 }
