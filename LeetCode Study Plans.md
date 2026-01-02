@@ -54,7 +54,7 @@
 ### Programming Skills II
 
 - [x] [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)
-- [ ] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+- [x] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 - [ ] [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 - [ ] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 - [ ] [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
