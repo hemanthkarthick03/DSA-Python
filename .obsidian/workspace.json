@@ -37,7 +37,8 @@
               "title": "Amazon_SDE_Fresher_DSA_Checklist"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,8 +200,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "e2bdb3d7842c7591",
+  "active": "6bce293bd40b5278",
   "lastOpenFiles": [
+    "LeetCode Study Plans.md",
     "Data Structures/Data Structures I/144. Binary Tree Preorder Traversal.ipynb",
     "DSA/Amazon_SDE_Fresher_DSA_Checklist.md",
     "DSA/Binary Tree/Binary Tree.md",
@@ -209,13 +211,11 @@
     "DSA/Social_Media_System_Design/target/test-classes",
     "DSA/Social_Media_System_Design/target/classes",
     "DSA/Social_Media_System_Design/target",
-    "LeetCode Study Plans.md",
     "DSA/Strings/Python/1790. Check if One String Swap Can Make Strings Equal.ipynb",
     "DSA/Strings/Python/28. Find the Index of the First Occurrence in a String.ipynb",
     "DSA/Strings/Python",
     "DSA/Strings/C++/SortString.cpp",
     "DSA/Strings/C++/SortedString.exe",
-    "Programming Skills/Programming Skills II/28. Find the Index of the First Occurrence in a String.ipynb",
     "Python Coding Tricks.md",
     "Amazon_System_Design_Complete_Mastery_Guide.md",
     "README.md",

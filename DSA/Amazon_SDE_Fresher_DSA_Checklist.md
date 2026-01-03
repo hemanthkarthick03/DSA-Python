@@ -13,16 +13,16 @@ This checklist contains 250 carefully curated Data Structures and Algorithms que
 ## Arrays (35 Questions)
 
 ### Basic Array Operations
-- [ ] 🟢 Two Sum ⭐
-- [ ] 🟢 Best Time to Buy and Sell Stock ⭐
-- [ ] 🟢 Contains Duplicate
-- [ ] 🟢 Maximum Subarray (Kadane's Algorithm) ⭐
-- [ ] 🟢 Plus One
-- [ ] 🟢 Move Zeroes
-- [ ] 🟢 Remove Duplicates from Sorted Array
-- [ ] 🟢 Merge Sorted Array
-- [ ] 🟢 Pascal's Triangle
-- [ ] 🟢 Single Number
+- [x] 🟢 Two Sum ⭐
+- [x] 🟢 Best Time to Buy and Sell Stock ⭐
+- [x] 🟢 Contains Duplicate
+- [x] 🟢 Maximum Subarray (Kadane's Algorithm) ⭐
+- [x] 🟢 Plus One
+- [x] 🟢 Move Zeroes
+- [x] 🟢 Remove Duplicates from Sorted Array
+- [x] 🟢 Merge Sorted Array
+- [x] 🟢 Pascal's Triangle
+- [x] 🟢 Single Number
 
 ### Intermediate Array Problems
 - [ ] 🟡 Product of Array Except Self ⭐
