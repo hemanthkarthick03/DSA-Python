@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon_SDE_Fresher_DSA_Checklist.md",
+                "file": "DSA/Amazon_SDE_Fresher_DSA_Checklist.md",
                 "mode": "source",
                 "source": false
               },
@@ -37,8 +37,7 @@
               "title": "Amazon_SDE_Fresher_DSA_Checklist"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,23 +199,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "6bce293bd40b5278",
+  "active": "e2bdb3d7842c7591",
   "lastOpenFiles": [
-    "LeetCode Study Plans.md",
+    "Data Structures/Data Structures I/144. Binary Tree Preorder Traversal.ipynb",
+    "DSA/Amazon_SDE_Fresher_DSA_Checklist.md",
+    "DSA/Binary Tree/Binary Tree.md",
     "Amazon_SDE_Fresher_DSA_Checklist.md",
+    "DSA/Binary Tree/Python/144. Binary Tree Preorder Traversal.ipynb",
+    "DSA/Social_Media_System_Design/target/test-classes",
+    "DSA/Social_Media_System_Design/target/classes",
+    "DSA/Social_Media_System_Design/target",
+    "LeetCode Study Plans.md",
     "DSA/Strings/Python/1790. Check if One String Swap Can Make Strings Equal.ipynb",
     "DSA/Strings/Python/28. Find the Index of the First Occurrence in a String.ipynb",
     "DSA/Strings/Python",
     "DSA/Strings/C++/SortString.cpp",
     "DSA/Strings/C++/SortedString.exe",
     "Programming Skills/Programming Skills II/28. Find the Index of the First Occurrence in a String.ipynb",
-    "DSA/Monotonic Stack/896. Monotonic Array.ipynb",
-    "Programming Skills/Programming Skills II/896. Monotonic Array.ipynb",
-    "Programming Skills/Programming Skills II/test.ipynb",
     "Python Coding Tricks.md",
     "Amazon_System_Design_Complete_Mastery_Guide.md",
     "README.md",
-    "DSA/Matrix/Python/1672. Richest Customer Wealth.ipynb",
     "DSA/Social_Media_System_Design/Requirements_Analysis.md",
     "DSA/Social_Media_System_Design/Database_Design.md",
     "DSA/Social_Media_System_Design/Problem_Statement.md",
@@ -234,8 +236,6 @@
     "DSA/Probability_Statistics_DataScience_Cheatsheet.md",
     "DSA/Python_DSA_Cheatsheet.md",
     "DSA/MongoDB_Tricks_Cheatsheet.md",
-    "DSA/Linux_Commands_Cheatsheet.md",
-    "DSA/Docker_Cheatsheet.md",
-    "DSA/Java_DSA_Syntax_Cheatsheet.md"
+    "DSA/Linux_Commands_Cheatsheet.md"
   ]
 }

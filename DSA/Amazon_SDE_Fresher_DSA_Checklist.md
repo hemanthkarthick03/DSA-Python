@@ -146,7 +146,7 @@ This checklist contains 250 carefully curated Data Structures and Algorithms que
 
 ### Tree Traversals
 - [ ] 🟡 Binary Tree Inorder Traversal ⭐
-- [ ] 🟡 Binary Tree Preorder Traversal
+- [x] 🟡 Binary Tree Preorder Traversal
 - [ ] 🟡 Binary Tree Postorder Traversal
 - [ ] 🟡 Binary Tree Level Order Traversal ⭐
 - [ ] 🟡 Binary Tree Zigzag Level Order Traversal ⭐
