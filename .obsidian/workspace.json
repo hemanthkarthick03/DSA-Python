@@ -37,8 +37,7 @@
               "title": "Amazon_SDE_Fresher_DSA_Checklist"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,11 +199,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "6bce293bd40b5278",
+  "active": "e2bdb3d7842c7591",
   "lastOpenFiles": [
+    "DSA/Amazon_SDE_Fresher_DSA_Checklist.md",
     "LeetCode Study Plans.md",
     "Data Structures/Data Structures I/144. Binary Tree Preorder Traversal.ipynb",
-    "DSA/Amazon_SDE_Fresher_DSA_Checklist.md",
     "DSA/Binary Tree/Binary Tree.md",
     "Amazon_SDE_Fresher_DSA_Checklist.md",
     "DSA/Binary Tree/Python/144. Binary Tree Preorder Traversal.ipynb",
